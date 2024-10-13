@@ -1,0 +1,12 @@
+name = "PeakFLOPS"
+uuid = "cfd12bee-798e-48a0-8636-cfab85e71057"
+authors = ["Elijah Mathews"]
+version = "0.1.0"
+
+[deps]
+AMDGPU = "21141c5a-9bdb-4563-92ae-f87d6854732e"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+
+[compat]
+AMDGPU = "1.0.4"
+LinearAlgebra = "1.11.0"
